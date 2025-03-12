@@ -2,4 +2,4 @@
 
 **PI:** [Dr. Kathryn Connaghan](https://www.mghihp.edu/ihp-directory/kathryn-connaghan-phd-ccc-slp)
 
-**Data Coordinator/Analyst:** [@nelson-barnett](https://github.com/nelson-barnett/)
+**Data Coordinator/Analyst:** [Nelson Barnett](https://github.com/nelson-barnett/)
